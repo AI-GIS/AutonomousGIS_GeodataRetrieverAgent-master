@@ -8,7 +8,7 @@ QGIS Plugin page: https://plugins.qgis.org/plugins/AutonomousGIS_GeodataRetrieve
 - Find ```AutonomousGIS_GeoDataRetrieverAgent``` and click ```Install Plugin```
 
 Alternatively,
-- [Download](https://github.com/AI-GIS/AutonomousGIS_GeodataRetrieverAgent-master/archive/refs/heads/main.zip)) the master repository of the plugin from github
+- [Download](https://github.com/AI-GIS/AutonomousGIS_GeodataRetrieverAgent-master/archive/refs/heads/main.zip) the master repository of the plugin from github
 - Launch QGIS software and navigate to ```Plugin >  Manage and install Plugins.. > Install from ZIP```
 - Click on ```...``` to select the directory of the downloaded zip file and ```Install plugin```
 
