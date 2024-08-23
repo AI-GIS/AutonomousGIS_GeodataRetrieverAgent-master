@@ -1,5 +1,5 @@
 # Autonomous GIS - GeoData Retrieve Agent
-The GeoData Retriever Agent is a plugin integration of an autonomous GIS agent for geospatial data retrieval and QGIS. This plugin simplifies the process of retrieving and loading geospatial data into the QGIS environment through natural language commands. It leverages [LLM-Find](https://github.com/gladcolor/LLM-Find), an autonomous framework designed to select and fetch geospatial data by generating and executing programs with self-debugging capabilities. For more details on the framework, please refer to our preprint manuscript: Huan Ning, Zhenlong Li, Temitope Akinboyewa, and M. Naser Lessani. 2024. “An Autonomous GIS Agent Framework for Geospatial Data Retrieval.” arXiv. [https://doi.org/10.48550/arXiv.2407.21024](https://doi.org/10.48550/arXiv.2407.21024). 
+The GeoData Retriever Agent is a plugin integration of an autonomous GIS agent for geospatial data retrieval and QGIS. This plugin simplifies the process of retrieving and loading geospatial data into the QGIS environment through natural language commands. It leverages [LLM-Find](https://github.com/AI-GIS/LLM-Find), an autonomous framework designed to select and fetch geospatial data by generating and executing programs with self-debugging capabilities. For more details on the framework. 
 
 QGIS Plugin page: https://plugins.qgis.org/plugins/AutonomousGIS_GeodataRetrieverAgent/
 
@@ -13,14 +13,14 @@ Alternatively,
 - Click on ```...``` to select the directory of the downloaded zip file and ```Install plugin```
 
 # User Manual
-The User Manual is available [here](https://github.com/Teakinboyewa/AutonomousGIS_GeodataRetrieverAgent/blob/master/User_manual.md)
+The User Manual is available [here](https://github.com/AI-GIS/AutonomousGIS_GeodataRetrieverAgent/blob/master/User_manual.md)
 
 # Plugin Interface
 
 ![Plugin Interface.png](Docs%2FPluginGUI.png)
 
 # Usage
-Find some usage example on the Data Request [Examples](https://github.com/Teakinboyewa/AutonomousGIS_GeodataRetrieverAgent/blob/master/Data%20request%20examples.md) page
+Find some usage example on the Data Request [Examples](https://github.com/AI-GIS/AutonomousGIS_GeodataRetrieverAgent/blob/master/Data%20request%20examples.md) page
 
 # MacOS users
 ## After the installation of the plugin, you need to install the "nest_asyncio" manually. Follow the steps below:
